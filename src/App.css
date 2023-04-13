@@ -1,0 +1,14 @@
+.App{
+  margin:2%;
+}
+.App h1{
+  color:rgb(4, 46, 138);
+}
+button{
+  margin-top:2%;
+  color:rgb(52, 49, 49);
+  background-color: rgba(12, 150, 86, 0.301);
+  padding:2px;
+  font-weight: 700;
+  border:1%;
+}
